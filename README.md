@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm 성애</h1>
-<h3>studying backend development</h3>
+<h1>🧑‍💻</h1>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3>I'm studying backend development :></h3>
+
 <p align="left">
 </p>
 
