@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 성애</h1>
-<h3 align="center">studying backend development</h3>
+<h1>Hi 👋, I'm 성애</h1>
+<h3>studying backend development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
